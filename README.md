@@ -6,4 +6,9 @@
 Пользователь вводит строку и шаг сдвига
 # Описание среды программирования
 Программа написана на языке python в Visual Studio 2019.
-
+# Тест1
+![Снимок экрана (56)](https://user-images.githubusercontent.com/113615651/192598600-5683e5ec-a6db-4a04-b0b3-bf167d686c20.png)
+# Тест2
+![Снимок экрана (57)](https://user-images.githubusercontent.com/113615651/192598609-e8150c76-a213-454d-bee6-646c6121fbcd.png)
+# Тест3
+![Снимок экрана (58)](https://user-images.githubusercontent.com/113615651/192598613-87d3563b-8407-43b7-9c39-604b42e386fe.png)
