@@ -12,7 +12,7 @@ for i in line:
         result+=alphabet[n]
     else:
         resuit += i
-print('Зашифрованное слово: ',result) #Выввод зафированного слова
+print('Зашифрованное слово: ',result) #Выввод зашифрованного слова
 
 
 step=int(input('Шаг для шифрования:'))%34
